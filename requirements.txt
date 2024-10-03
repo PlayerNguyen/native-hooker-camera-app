@@ -1,0 +1,6 @@
+opencv-python
+deepface
+numpy<2
+ultralytics
+pymilvus
+imutils
