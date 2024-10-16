@@ -4,3 +4,4 @@ numpy<2
 ultralytics
 pymilvus
 imutils
+tf-keras
